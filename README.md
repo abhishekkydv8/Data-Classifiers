@@ -8,3 +8,4 @@ We use the test set to report the accuracy of different types of Machine Learnin
 --> Decision Tree
 --> Support Vector Machine
 --> Logistic Regression
+
